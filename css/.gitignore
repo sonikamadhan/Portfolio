@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+dist/
+build/
+.vite/
+
+# Environment files
+.env
+.env.*
+
+# Java
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
